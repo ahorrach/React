@@ -1,0 +1,59 @@
+journal app
+# Por favor ingresa el mensaje del commit para tus cambios. Las
+#  líneas que comiencen con '#' serán ignoradas, y un mensaje
+#  vacío aborta el commit.
+#
+# En la rama master
+#
+# Confirmación inicial
+#
+# Cambios a ser confirmados:
+#	nuevos archivos: .gitignore
+#	nuevos archivos: index.html
+#	nuevos archivos: package.json
+#	nuevos archivos: src/JournalApp.jsx
+#	nuevos archivos: src/auth/layout/AuthLayout.jsx
+#	nuevos archivos: src/auth/pages/LoginPage.jsx
+#	nuevos archivos: src/auth/pages/RegisterPage.jsx
+#	nuevos archivos: src/auth/pages/index.js
+#	nuevos archivos: src/auth/routes/AuthRoutes.jsx
+#	nuevos archivos: src/favicon.svg
+#	nuevos archivos: src/firebase/config.js
+#	nuevos archivos: src/firebase/providers.js
+#	nuevos archivos: src/helpers/fileUpload.js
+#	nuevos archivos: src/helpers/index.js
+#	nuevos archivos: src/helpers/loadNotes.js
+#	nuevos archivos: src/hooks/index.js
+#	nuevos archivos: src/hooks/useCheckAuth.js
+#	nuevos archivos: src/hooks/useForm.js
+#	nuevos archivos: src/journal/components/ImageGallery.jsx
+#	nuevos archivos: src/journal/components/NavBar.jsx
+#	nuevos archivos: src/journal/components/SideBar.jsx
+#	nuevos archivos: src/journal/components/SideBarItem.jsx
+#	nuevos archivos: src/journal/components/index.js
+#	nuevos archivos: src/journal/layout/JournalLayout.jsx
+#	nuevos archivos: src/journal/pages/JournalPage.jsx
+#	nuevos archivos: src/journal/routes/JournalRoutes.jsx
+#	nuevos archivos: src/journal/views/NoteView.jsx
+#	nuevos archivos: src/journal/views/NothingSelectedView.jsx
+#	nuevos archivos: src/journal/views/index.js
+#	nuevos archivos: src/main.jsx
+#	nuevos archivos: src/router/AppRouter.jsx
+#	nuevos archivos: src/router/hola.html
+#	nuevos archivos: src/store/auth/authSlice.js
+#	nuevos archivos: src/store/auth/index.js
+#	nuevos archivos: src/store/auth/thunks.js
+#	nuevos archivos: src/store/index.js
+#	nuevos archivos: src/store/journal/index.js
+#	nuevos archivos: src/store/journal/journalSlice.js
+#	nuevos archivos: src/store/journal/thunks.js
+#	nuevos archivos: src/store/store.js
+#	nuevos archivos: src/styles.css
+#	nuevos archivos: src/theme/AppTheme.jsx
+#	nuevos archivos: src/theme/index.js
+#	nuevos archivos: src/theme/purpleTheme.js
+#	nuevos archivos: src/ui/components/CheckingAuth.jsx
+#	nuevos archivos: src/ui/index.js
+#	nuevos archivos: vite.config.js
+#	nuevos archivos: yarn.lock
+#
